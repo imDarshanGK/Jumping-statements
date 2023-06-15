@@ -1,10 +1,11 @@
-# Jumping-statements-Break
+# Jumping-statements
 Jumping-statements-Break
 
 Break statements
 
 1) It must be used within switch or loops.
 2) It takes the execution comes outside switch or loops.
+   
 solution:
 
 program 1:
@@ -83,3 +84,156 @@ It is used to avoid getting error when no statements are given to
 * for
 * function
 * class etc.
+
+# Jumping-statements-in-continue
+Jumping statements in continue
+
+Continue:
+
+* It must be used within loops.
+* It takes the execution control to next iteration by skipping statement present next to it.
+
+solution 1:
+
+        1 Hello
+        Good Morning
+        2 Hello
+        Good Morning
+        3 Hello
+        Good Morning
+        4 Hello
+        Good Morning
+        5 Hello
+        Good Morning
+        6 Hello
+        Good Morning
+        7 Hello
+        Good Morning
+        8 Hello
+        Good Morning
+        9 Hello
+        Good Morning
+        10 Hello
+        Good Morning
+        Bye
+
+solution 2:
+
+        1 Hello
+        2 Hello
+        3 Hello
+        4 Hello
+        5 Hello
+        6 Hello
+        7 Hello
+        8 Hello
+        9 Hello
+        10 Hello
+        Bye
+
+solution 3:
+
+        Good Morning
+        Good Morning
+        Good Morning
+        Good Morning
+        Good Morning
+        Good Morning
+        Good Morning
+        Good Morning
+        Good Morning
+        Good Morning
+        Bye
+
+solution 4:
+
+        Good Morning
+        2 Hello
+        Good Morning
+        Good Morning
+        4 Hello
+        Good Morning
+        5 Hello
+        Good Morning
+        6 Hello
+        Good Morning
+        7 Hello
+        Good Morning
+        8 Hello
+        Good Morning
+        9 Hello
+        Good Morning
+        10 Hello
+        Good Morning
+        11 Hello
+        Bye
+
+solution 5:
+
+        Good Morning
+        2 Hello
+        Good Morning
+        Good Morning
+        4 Hello
+        Good Morning
+        Good Morning
+        6 Hello
+        Good Morning
+        Good Morning
+        8 Hello
+        Good Morning
+        9 Hello
+        Good Morning
+        10 Hello
+        Good Morning
+        11 Hello
+        Bye
+    
+solution 6:
+
+        1 Hello
+        2 Hello
+        3 Hello
+        4 Hello
+        5 Hello
+        6 Hello
+        7 Hello
+        8 Hello
+        9 Hello
+        10 Hello
+        Bye
+
+solution 7:
+
+        Good Morning
+        Good Morning
+        Good Morning
+        Good Morning
+        Good Morning
+        Good Morning
+        Good Morning
+        Good Morning
+        Good Morning
+        Good Morning
+        Bye
+
+solution 8:
+
+        Good Morning
+        1 Hello
+        Good Morning
+        2 Hello
+        Good Morning
+        Good Morning
+        4 Hello
+        Good Morning
+        Good Morning
+        6 Hello
+        Good Morning
+        Good Morning
+        8 Hello
+        Good Morning
+        9 Hello
+        Good Morning
+        10 Hello
+        Bye
