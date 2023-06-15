@@ -71,3 +71,15 @@ program 7:
 program 8:
 
          Bye
+
+# Jumping-Statement-in-pass
+Jumping Statement in pass
+
+Jumping Statement in pass
+
+It is used to avoid getting error when no statements are given to 
+* if 
+* while
+* for
+* function
+* class etc.
